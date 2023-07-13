@@ -1,33 +1,30 @@
-# This is Mow17
+Hi there 😀
 
-<!--
-**Mow17/Mow17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Aisu Takida**, who is a software engineer and university student in Waseda University in Japan.
 
-Here are some ideas to get you started:
+## Education
+- (Apr. 2018 ~ Mar. 2021) Waseda University Honjo Senior High School (Japan)
+- (Apr. 2021 ~ current) Waseda University: Political Science and Economics (Japan)
+- (Aug. 2022 ~ May. 2023) University of Hawaii at Manoa: Economics Departmemt (USA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am going to graduate from the university in Mar. 2025.
 
-<img height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mow17&theme=nightowl" />
+## Organization
+- Waseda QWS Academia
+  - The 2nd "Message to Women Who Want to Try Something New: What Can We Change? ~QWS Academia (Waseda University)"
+    - Event page: https://20210515academia.peatix.com/?lang=ja
+  - The 3rd "Message to Women Who Want to Try Something New: What Can We Change? ~QWS Academia (Waseda University)"
+    - Event page: https://waseda-edge.jp/event_detail_2021?id=20210626
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mow17&layout=compact&count_private=true&show_icons=true&theme=nightowl" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Mow17&count_private=true&show_icons=true&show_icons=true&theme=nightowl" />
-  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Mow17&theme=nightowl)](https://github-readme-streak-stats.herokuapp.com/?user=Mow17&theme=nightowl" />
-</p>
+- Waseda University Computer Research Group WINC
+  - Official Cite: https://www.winc.ne.jp/
 
-<p align="left">
-  <img height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mow17&theme=nightowl" />
-  <img height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mow17&theme=nightowl" />
-  <img height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mow17&theme=nightowl" />
-  <img height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mow17&theme=nightowl&utcOffset=8" />
-</p>
+## Awards
+- Special award from the Minister of Education, Culture, Sports, Science and Technology
+  - Award at Fugaku Challenge (in 2020)
+  - Article: https://www.waseda.jp/school/honjo/news/1644
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mow17&theme=nightowl&column=8)](https://github.com/Mow17/github-profile-trophy)
+## Papers
+- Reducing Waiting Children with Daycare Search Map: Evidence from an RCT in Shibuya City
+  - SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4431332
+  - Article: https://www.cyberagent.co.jp/techinfo/news/detail/id=28868
