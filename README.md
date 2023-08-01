@@ -17,6 +17,9 @@ I am going to graduate from the university in Mar. 2025.
     - Event page: https://waseda-edge.jp/event_detail_2021?id=20210626
 
 - Waseda University Computer Research Group WINC
+　　　　- Waseda University's official clubs
+  - Approximately 140 students were enrolled, including those outside of Waseda University.
+　　　　- I represented this group for a year.
   - Official Cite: https://www.winc.ne.jp/
 
 ## Awards
